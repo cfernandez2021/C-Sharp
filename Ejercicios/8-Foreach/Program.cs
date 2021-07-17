@@ -39,6 +39,7 @@ namespace _8_Foreach
            foreach (var alumno in alumnos)
            {
                Console.WriteLine(alumno.Nombre);
+               
            }
 
         }
